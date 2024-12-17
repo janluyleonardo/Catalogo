@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productItem = document.createElement('div');
                 productItem.classList.add('product-item');
                 productItem.innerHTML = `
-                    <img src="/images/${product.image}" alt="${product.name}">
+                    <img src="images/${product.image}" alt="${product.name}">
                     <h2>${product.name}</h2>
                     <p>${product.description}</p>
                 `;
