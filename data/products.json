@@ -13,34 +13,70 @@
       "image": "product-2.jpeg"
     },
     {
-      "name": "Mug 11oz Espejo",
-      "description": "Descripción del producto 3.",
+      "name": "Mug 11oz Espejo Plateado",
+      "description": "Mug 11oz con esmalte tip espejo plateado",
       "price": 30.99,
       "image": "product-3.jpeg"
     },
     {
-      "name": "Producto 3",
-      "description": "Descripción del producto 3.",
+      "name": "Mug 11oz Espejo Blanco",
+      "description": "Mug 11oz con esmalte tip espejo blanco",
       "price": 30.99,
       "image": "product-4.jpeg"
     },
     {
-      "name": "Producto 3",
-      "description": "Descripción del producto 3.",
+      "name": "Mug 11oz Espejo Dorado",
+      "description": "Mug 11oz con esmalte tip espejo dorado",
       "price": 30.99,
       "image": "product-5.jpeg"
     },
     {
-      "name": "Producto 3",
-      "description": "Descripción del producto 3.",
+      "name": "Termo digital",
+      "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas",
       "price": 30.99,
       "image": "product-6.jpeg"
     },
     {
-      "name": "Producto 3",
-      "description": "Descripción del producto 3.",
+      "name": "Harra opalizada tapa goma",
+      "description": "Harra opalizada con tapa de goma y valvula de calor",
       "price": 30.99,
       "image": "product-7.jpeg"
+    },
+    {
+      "name": "Rompecabezas corazon",
+      "description": "Rompecabezas personalizable en forma de corazon",
+      "price": 30.99,
+      "image": "product-8.jpeg"
+    },
+    {
+      "name": "Termo Bala",
+      "description": "Termo bala tapa dorada conserva el calor hasta 3 horas",
+      "price": 30.99,
+      "image": "product-9.jpeg"
+    },
+    {
+      "name": "Porta retrato",
+      "description": "Porta retrato en vidrio opalizado",
+      "price": 30.99,
+      "image": "product-10.jpeg"
+    },
+    {
+      "name": "Esferos Propagana",
+      "description": "Esfero personalizable para propaganda y promocion",
+      "price": 30.99,
+      "image": "product-11.jpeg"
+    },
+    {
+      "name": "Pad mouse",
+      "description": "Pad mouse redondo y/o rectangular",
+      "price": 30.99,
+      "image": "product-12.jpeg"
+    },
+    {
+      "name": "Gorra",
+      "description": "Gorra personalizable adultos y niños",
+      "price": 30.99,
+      "image": "product-13.jpeg"
     }
   ]
 }

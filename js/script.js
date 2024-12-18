@@ -7,11 +7,26 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productItem = document.createElement('div');
                 productItem.classList.add('product-item');
                 productItem.innerHTML = `
-                    <img src="/images/${product.image}" alt="${product.name}">
+                    <img src="images/${product.image}" alt="${product.name}" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" data-price="${product.price}" data-image="images/${product.image}">
                     <h2>${product.name}</h2>
                     <p>${product.description}</p>
+                    <p>Precio: $${product.price}</p>
                 `;
                 productList.appendChild(productItem);
+            });
+
+            // Añadir evento para abrir el modal con la información del producto
+            $('#productModal').on('show.bs.modal', function (event) {
+                var button = $(event.relatedTarget);
+                var name = button.data('name');
+                var description = button.data('description');
+                var price = button.data('price');
+                var image = button.data('image');
+                var modal = $(this);
+                modal.find('#modalImage').attr('src', image);
+                modal.find('#modalName').text(name);
+                modal.find('#modalDescription').text(description);
+                modal.find('#modalPrice').text('Precio: $' + price);
             });
         })
         .catch(error => console.error('Error cargando los productos:', error));
