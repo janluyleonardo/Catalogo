@@ -8,7 +8,7 @@
     },
     {
       "name": "Mug 11oz Opalizado",
-      "description": "Mug opalizado con oreja de corazon y color degradado",
+      "description": "Mug opalizado con oreja de corazón y color degradado",
       "price": 25000,
       "image": "product-2.jpeg"
     },
@@ -37,14 +37,14 @@
       "image": "product-6.jpeg"
     },
     {
-      "name": "Harra opalizada tapa goma",
-      "description": "Harra opalizada con tapa de goma y valvula de calor",
+      "name": "Jarra opalizada tapa goma",
+      "description": "Jarra opalizada con tapa de goma y válvula de calor",
       "price": 30000,
       "image": "product-7.jpeg"
     },
     {
-      "name": "Rompecabezas corazon",
-      "description": "Rompecabezas personalizable en forma de corazon",
+      "name": "Rompecabezas corazón",
+      "description": "Rompecabezas personalizable en forma de corazón",
       "price": 28000,
       "image": "product-8.jpeg"
     },
@@ -62,7 +62,7 @@
     },
     {
       "name": "Esferos Propagana",
-      "description": "Esfero personalizable para propaganda y promocion",
+      "description": "Esfero personalizable para propaganda y promoción",
       "price": 5000,
       "image": "product-11.jpeg"
     },
@@ -79,8 +79,8 @@
       "image": "product-13.jpeg"
     },
     {
-      "name": "Mug pareja Corazon",
-      "description": "Mug pareja con oreja en forma de corazon",
+      "name": "Mug pareja corazón",
+      "description": "Mug pareja con oreja en forma de corazón",
       "price": 35000,
       "image": "product-14.jpeg"
     },
@@ -92,7 +92,7 @@
     },
     {
       "name": "Kit personalizado",
-      "description": "Mug orejas apilables color pastel",
+      "description": "Mini Agenda, Caja Personalizada, Esfero, Espejo, Llavero",
       "price": 33000,
       "image": "kit.jpeg"
     }
