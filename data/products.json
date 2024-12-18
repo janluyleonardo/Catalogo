@@ -3,80 +3,98 @@
     {
       "name": "Termo Tapa Orejas Conejo",
       "description": "Termo en ceramica con oreja de agarre antideslisante ",
-      "price": 10.99,
+      "price": 32000,
       "image": "product-1.jpeg"
     },
     {
       "name": "Mug 11oz Opalizado",
       "description": "Mug opalizado con oreja de corazon y color degradado",
-      "price": 20.99,
+      "price": 25000,
       "image": "product-2.jpeg"
     },
     {
       "name": "Mug 11oz Espejo Plateado",
       "description": "Mug 11oz con esmalte tip espejo plateado",
-      "price": 30.99,
+      "price": 25000,
       "image": "product-3.jpeg"
     },
     {
       "name": "Mug 11oz Espejo Blanco",
       "description": "Mug 11oz con esmalte tip espejo blanco",
-      "price": 30.99,
+      "price": 25000,
       "image": "product-4.jpeg"
     },
     {
       "name": "Mug 11oz Espejo Dorado",
       "description": "Mug 11oz con esmalte tip espejo dorado",
-      "price": 30.99,
+      "price": 25000,
       "image": "product-5.jpeg"
     },
     {
       "name": "Termo digital",
       "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas",
-      "price": 30.99,
+      "price": 40000,
       "image": "product-6.jpeg"
     },
     {
       "name": "Harra opalizada tapa goma",
       "description": "Harra opalizada con tapa de goma y valvula de calor",
-      "price": 30.99,
+      "price": 30000,
       "image": "product-7.jpeg"
     },
     {
       "name": "Rompecabezas corazon",
       "description": "Rompecabezas personalizable en forma de corazon",
-      "price": 30.99,
+      "price": 28000,
       "image": "product-8.jpeg"
     },
     {
       "name": "Termo Bala",
       "description": "Termo bala tapa dorada conserva el calor hasta 3 horas",
-      "price": 30.99,
+      "price": 25000,
       "image": "product-9.jpeg"
     },
     {
       "name": "Porta retrato",
       "description": "Porta retrato en vidrio opalizado",
-      "price": 30.99,
+      "price": 28000,
       "image": "product-10.jpeg"
     },
     {
       "name": "Esferos Propagana",
       "description": "Esfero personalizable para propaganda y promocion",
-      "price": 30.99,
+      "price": 5000,
       "image": "product-11.jpeg"
     },
     {
       "name": "Pad mouse",
       "description": "Pad mouse redondo y/o rectangular",
-      "price": 30.99,
+      "price": 10000,
       "image": "product-12.jpeg"
     },
     {
       "name": "Gorra",
       "description": "Gorra personalizable adultos y niños",
-      "price": 30.99,
+      "price": 25000,
       "image": "product-13.jpeg"
+    },
+    {
+      "name": "Mug pareja Corazon",
+      "description": "Mug pareja con oreja en forma de corazon",
+      "price": 35000,
+      "image": "product-14.jpeg"
+    },
+    {
+      "name": "Mug orejas apilable",
+      "description": "Mug orejas apilables color pastel",
+      "price": 25000,
+      "image": "product-16.jpeg"
+    },
+    {
+      "name": "Kit personalizado",
+      "description": "Mug orejas apilables color pastel",
+      "price": 33000,
+      "image": "kit.jpeg"
     }
   ]
 }
