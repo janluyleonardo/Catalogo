@@ -1,3 +1,7 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -5,15 +9,29 @@ body {
   background-color: #f4f4f4;
 }
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 1rem;
-  text-align: center;
+.navbar {
+  position: fixed !important;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+  /* Asegura que la navbar esté por encima de otros elementos */
+  background-color: #fff;
+  /* Fondo blanco para la navbar */
+  border-bottom: 1px solid #ddd;
+  /* Borde inferior para separar la navbar del contenido */
+  display: flex;
+  align-items: center;
 }
 
 .navbar-brand img.logo {
-  height: 40px;
+  height: 80px;
+  margin-right: 1rem;
+}
+
+.navbar-title {
+  margin: 0;
+  font-size: 1.5rem;
+  color: #333;
 }
 
 .product-list {
@@ -22,6 +40,8 @@ header {
   justify-content: center;
   gap: 1rem;
   padding: 1rem;
+  margin-top: 100px;
+  /* Ajusta el margen superior para evitar que el contenido quede debajo de la navbar */
 }
 
 .product-item {
@@ -51,13 +71,13 @@ header {
 }
 
 @media (max-width: 768px) {
-  header {
-    text-align: center;
-    padding-top: 2rem;
-  }
-
   .navbar-brand img.logo {
     display: block;
     margin: 0 auto 1rem;
+  }
+
+  .navbar-title {
+    text-align: center;
+    margin-top: 1rem;
   }
 }

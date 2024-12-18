@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productItem = document.createElement('div');
                 productItem.classList.add('product-item');
                 productItem.innerHTML = `
-                    <img src="images/${product.image}" alt="${product.name}" width="100" heigth="100" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" ${isVendedorPage ? '' : `data-price="${product.price}"`} data-image="images/${product.image}">
+                    <img src="images/${product.image}" alt="${product.name}" width="100" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" ${isVendedorPage ? '' : `data-price="${product.price}"`} data-image="images/${product.image}">
                     <h2>${product.name}</h2>
                     <p>${product.description}</p>
                     ${isVendedorPage ? '' : `<p>Precio: $${product.price}</p>`}
