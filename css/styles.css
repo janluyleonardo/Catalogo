@@ -12,6 +12,10 @@ header {
   text-align: center;
 }
 
+.navbar-brand img.logo {
+  height: 40px;
+}
+
 .product-list {
   display: flex;
   flex-wrap: wrap;
@@ -33,6 +37,7 @@ header {
 .product-item img {
   max-width: 100%;
   height: auto;
+  cursor: pointer;
 }
 
 .product-item h2 {
@@ -43,4 +48,16 @@ header {
 .product-item p {
   font-size: 1rem;
   color: #555;
+}
+
+@media (max-width: 768px) {
+  header {
+    text-align: center;
+    padding-top: 2rem;
+  }
+
+  .navbar-brand img.logo {
+    display: block;
+    margin: 0 auto 1rem;
+  }
 }

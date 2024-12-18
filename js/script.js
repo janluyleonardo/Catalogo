@@ -1,4 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
+    const isVendedorPage = window.location.pathname.includes('vendedores.html');
+
     fetch('data/products.json')
         .then(response => response.json())
         .then(data => {
@@ -7,10 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 const productItem = document.createElement('div');
                 productItem.classList.add('product-item');
                 productItem.innerHTML = `
-                    <img src="images/${product.image}" alt="${product.name}" width="120" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" data-price="${product.price}" data-image="images/${product.image}">
+                    <img src="images/${product.image}" alt="${product.name}" widt="120" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" ${isVendedorPage ? '' : `data-price="${product.price}"`} data-image="images/${product.image}">
                     <h2>${product.name}</h2>
                     <p>${product.description}</p>
-                    <p>Precio: $${product.price}</p>
+                    ${isVendedorPage ? '' : `<p>Precio: $${product.price}</p>`}
                 `;
                 productList.appendChild(productItem);
             });
@@ -26,7 +28,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 modal.find('#modalImage').attr('src', image);
                 modal.find('#modalName').text(name);
                 modal.find('#modalDescription').text(description);
-                modal.find('#modalPrice').text('Precio: $' + price);
+                if (!isVendedorPage) {
+                    modal.find('#modalPrice').text('Precio: $' + price);
+                }
             });
         })
         .catch(error => console.error('Error cargando los productos:', error));
