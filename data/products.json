@@ -4,97 +4,187 @@
       "name": "Termo Tapa Orejas Conejo",
       "description": "Termo en ceramica con oreja de agarre antideslisante ",
       "price": 32000,
-      "image": "product-1.jpeg"
+      "image": "product-1.jpg"
     },
     {
       "name": "Mug 11oz Opalizado",
       "description": "Mug opalizado con oreja de corazón y color degradado",
       "price": 25000,
-      "image": "product-2.jpeg"
+      "image": "product-2.jpg"
     },
     {
       "name": "Mug 11oz Espejo Plateado",
       "description": "Mug 11oz con esmalte tip espejo plateado",
       "price": 25000,
-      "image": "product-3.jpeg"
+      "image": "product-3.jpg"
     },
     {
       "name": "Mug 11oz Espejo Blanco",
       "description": "Mug 11oz con esmalte tip espejo blanco",
       "price": 25000,
-      "image": "product-4.jpeg"
+      "image": "product-4.jpg"
     },
     {
       "name": "Mug 11oz Espejo Dorado",
       "description": "Mug 11oz con esmalte tip espejo dorado",
       "price": 25000,
-      "image": "product-5.jpeg"
+      "image": "product-5.jpg"
     },
     {
       "name": "Termo digital",
       "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas",
       "price": 40000,
-      "image": "product-6.jpeg"
+      "image": "product-6.jpg"
     },
     {
       "name": "Jarra opalizada tapa goma",
       "description": "Jarra opalizada con tapa de goma y válvula de calor",
       "price": 30000,
-      "image": "product-7.jpeg"
+      "image": "product-7.jpg"
     },
     {
       "name": "Rompecabezas corazón",
       "description": "Rompecabezas personalizable en forma de corazón",
       "price": 28000,
-      "image": "product-8.jpeg"
+      "image": "product-8.jpg"
     },
     {
       "name": "Termo Bala",
       "description": "Termo bala tapa dorada conserva el calor hasta 3 horas",
       "price": 25000,
-      "image": "product-9.jpeg"
+      "image": "product-9.jpg"
     },
     {
       "name": "Porta retrato",
       "description": "Porta retrato en vidrio opalizado",
       "price": 28000,
-      "image": "product-10.jpeg"
+      "image": "product-10.jpg"
     },
     {
-      "name": "Esferos Propaganda",
+      "name": "Esferos Promocionales",
       "description": "Esfero personalizable para propaganda y promoción",
       "price": 5000,
-      "image": "product-11.jpeg"
+      "image": "product-11.jpg"
     },
     {
       "name": "Pad mouse",
       "description": "Pad mouse redondo y/o rectangular",
       "price": 10000,
-      "image": "product-12.jpeg"
+      "image": "product-12.jpg"
     },
     {
-      "name": "Gorra",
+      "name": "Gorra acrilica",
       "description": "Gorra personalizable adultos y niños",
       "price": 25000,
-      "image": "product-13.jpeg"
+      "image": "product-13.jpg"
     },
     {
       "name": "Mug pareja corazón",
       "description": "Mug pareja con oreja en forma de corazón",
       "price": 35000,
-      "image": "product-14.jpeg"
+      "image": "product-14.jpg"
     },
     {
-      "name": "Mug orejas apilable",
+      "name": "Mug apilable gato pastel",
       "description": "Mug orejas apilables color pastel",
+      "price": 18000,
+      "image": "product-16.jpg"
+    },
+    {
+      "name": "Mug apilable chocolatero 8oz",
+      "description": "Mug apilable chocolatero 8oz color blanco",
+      "price": 15000,
+      "image": "product-17.jpg"
+    },
+    {
+      "name": "Agenda cocida Rayada",
+      "description": "Agenda tipo cuaderno cocida rayada, papel amarillo",
       "price": 25000,
-      "image": "product-16.jpeg"
+      "image": "product-18.jpg"
+    },
+    {
+      "name": "Camiseta niño",
+      "description": "Camiseta estampada en DTF para niños, hasta la talla 16",
+      "price": 28000,
+      "image": "product-19.jpeg"
+    },
+    {
+      "name": "Camiseta adulto",
+      "description": "Camiseta estampada en DTF para adultos, todas las talla y colores",
+      "price": 35000,
+      "image": "product-20.jpg"
+    },
+    {
+      "name": "Colga Puertas",
+      "description": "Colga puertas para oficina y hogar, diseños personalizados",
+      "price": 15000,
+      "image": "product-21.jpg"
+    },
+    {
+      "name": "Destapador botella",
+      "description": "Destapador de botella personalizado en acero inoxidable",
+      "price": 9000,
+      "image": "product-22.jpg"
+    },
+    {
+      "name": "Destapador ovalado",
+      "description": "Destapador de botella personalizado en acero inoxidable",
+      "price": 7000,
+      "image": "product-23.jpg"
+    },
+    {
+      "name": "Hug Escarchado",
+      "description": "Mug 11oz con esmalte tipo escarchado",
+      "price": 7000,
+      "image": "product-24.jpg"
+    },
+    {
+      "name": "Iman Personalizable",
+      "description": "Iman de sublimación personalizable 70x50mm",
+      "price": 4000,
+      "image": "product-25.jpg"
+    },
+    {
+      "name": "Iman Personalizable",
+      "description": "Iman de sublimación personalizable 90x90mm",
+      "price": 4000,
+      "image": "product-26.jpg"
+    },
+    {
+      "name": "Jarra Mason Opalizada",
+      "description": "Jarra mason opalizada colores pastel con pitillo",
+      "price": 30000,
+      "image": "product-27.jpg"
+    },
+    {
+      "name": "Espejo redondo",
+      "description": "Espejo de mano redondo personalizable",
+      "price": 30000,
+      "image": "product-28.jpg"
+    },
+    {
+      "name": "Libreta de apuntes",
+      "description": "Libreta de apuntes personalizable hojas blancas",
+      "price": 6000,
+      "image": "product-29.jpg"
+    },
+    {
+      "name": "Llavero cuero",
+      "description": "Llavero de cuero blanco personalizable, con armella metalica",
+      "price": 6000,
+      "image": "product-30.jpg"
+    },
+    {
+      "name": "Llavero cuero",
+      "description": "Llavero de cuero blanco personalizable, con armella metalica",
+      "price": 6000,
+      "image": "product-31.jpg"
     },
     {
       "name": "Kit personalizado",
       "description": "Mini Agenda, Caja Personalizada, Esfero, Espejo, Llavero",
       "price": 33000,
-      "image": "kit.jpeg"
+      "image": "kit-1.jpg"
     }
   ]
 }
