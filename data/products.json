@@ -181,6 +181,30 @@
       "image": "product-31.jpg"
     },
     {
+      "name": "Cuadro de piedra",
+      "description": "Cuadro de piedra personalizable de 30 x 30 cm, con soporte para mesa",
+      "price": 80000,
+      "image": "product-32.jpg"
+    },
+    {
+      "name": "Arco de piedra",
+      "description": "Arco de piedra personalizable de 20 x 20 cm, con soporte para mesa",
+      "price": 35000,
+      "image": "product-33.jpg"
+    },
+    {
+      "name": "Porta vaso",
+      "description": "Porta vaso en ceramica personalizable de 10 x 10 cm, con corcho antideslizante",
+      "price": 35000,
+      "image": "product-34.jpg"
+    },
+    {
+      "name": "Personalización de productos textiles",
+      "description": "Personalizamos toda clase de productos textiles con estampado en DTF, plasmando tus sueños en tus prendas",
+      "price": 35000,
+      "image": "product-35.jpg"
+    },
+    {
       "name": "Kit personalizado",
       "description": "Mini Agenda, Caja Personalizada, Esfero, Espejo, Llavero",
       "price": 33000,
