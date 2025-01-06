@@ -85,6 +85,12 @@
       "image": "product-14.jpg"
     },
     {
+      "name": "Llavero acrilico",
+      "description": "Llavero acrilico redondo sublimable con argolla metalica",
+      "price": 4000,
+      "image": "product-15.jpg"
+    },
+    {
       "name": "Mug apilable gato pastel",
       "description": "Mug orejas apilables color pastel",
       "price": 18000,
@@ -203,6 +209,36 @@
       "description": "Personalizamos toda clase de productos textiles con estampado en DTF, plasmando tus sueños en tus prendas",
       "price": 35000,
       "image": "product-35.jpg"
+    },
+    {
+      "name": "Vaso tapa pitillo bambu opalizado",
+      "description": "Vaso tapa pitillo bambu opalizado personalizable de 500ml con pitillo",
+      "price": 28000,
+      "image": "product-36.jpg"
+    },
+    {
+      "name": "Rompecabezas rectangular 48 piezas",
+      "description": "Rompecabezas personalizable de 48 piezas rectangular",
+      "price": 25000,
+      "image": "product-37.jpg"
+    },
+    {
+      "name": "Placa mascota grande",
+      "description": "Placa mascota sublimable tamaño grande en forma de hueso de perro",
+      "price": 5000,
+      "image": "product-38.jpg"
+    },
+    {
+      "name": "Marco acrilico",
+      "description": "Marco acrilico con soporte imantado (5.7 x 5.7cm)",
+      "price": 4000,
+      "image": "product-39.jpg"
+    },
+    {
+      "name": "Llavero translucido",
+      "description": "Llavero acrilico translucido con argolla metalica",
+      "price": 2000,
+      "image": "product-40.jpg"
     },
     {
       "name": "Kit personalizado",
