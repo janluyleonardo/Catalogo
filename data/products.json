@@ -55,7 +55,7 @@
       "image": "product-9.jpg"
     },
     {
-      "name": "Porta retrato",
+      "name": "Porta retrato vidrio",
       "description": "Porta retrato en vidrio opalizado.",
       "price": 28000,
       "image": "product-10.jpg"
@@ -183,7 +183,7 @@
     {
       "name": "Mug con cuchara",
       "description": "Mug 11oz con oreja porta cuchara , colores internos.",
-      "price": 18000,
+      "price": 20000,
       "image": "product-31.jpg"
     },
     {
@@ -201,7 +201,7 @@
     {
       "name": "Porta vaso",
       "description": "Porta vaso en ceramica personalizable de 10cm de diametro, con corcho antideslizante.",
-      "price": 35000,
+      "price": 10000,
       "image": "product-34.jpg"
     },
     {
@@ -243,7 +243,7 @@
     {
       "name": "Carimañola",
       "description": "Termo metalico, reacciona al calor y cambia de color.",
-      "price": 30000,
+      "price": 35000,
       "image": "product-41.jpg"
     },
     {
