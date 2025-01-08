@@ -141,7 +141,7 @@
     {
       "name": "Mug Escarchado",
       "description": "Mug 11oz con esmalte tipo escarcha.",
-      "price": 15000,
+      "price": 18000,
       "image": "product-24.jpg"
     },
     {
@@ -177,7 +177,7 @@
     {
       "name": "Llavero cuero",
       "description": "Llavero de cuero blanco personalizable.",
-      "price": 6000,
+      "price": 7000,
       "image": "product-30.jpg"
     },
     {
@@ -261,13 +261,13 @@
     {
       "name": "Kit personalizado #2",
       "description": "Mug 11oz, llavero personalizable, Esfero.",
-      "price": 33000,
+      "price": 17000,
       "image": "kit-2.jpg"
     },
     {
-      "name": "Kit personalizado #3",
-      "description": "Caja de 15 colores, 2 lapices, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra.",
-      "price": 33000,
+      "name": "Kit escolar personalizado",
+      "description": "Caja de 15 colores, 1 lapiz negro, 1 lapiz rojo, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra, 1 cartuchera.",
+      "price": 45000,
       "image": "kit-3.jpg"
     }
   ]
