@@ -2,249 +2,273 @@
   "products": [
     {
       "name": "Termo Tapa Orejas Conejo",
-      "description": "Termo en ceramica con oreja de agarre antideslisante ",
+      "description": "Termo en ceramica con oreja de agarre antideslisante.",
       "price": 32000,
       "image": "product-1.jpg"
     },
     {
       "name": "Mug 11oz Opalizado",
-      "description": "Mug opalizado con oreja de corazón y color degradado",
+      "description": "Mug opalizado con oreja de corazón y color degradado.",
       "price": 25000,
       "image": "product-2.jpg"
     },
     {
       "name": "Mug 11oz Espejo Plateado",
-      "description": "Mug 11oz con esmalte tip espejo plateado",
+      "description": "Mug 11oz con esmalte tipo espejo plateado.",
       "price": 25000,
       "image": "product-3.jpg"
     },
     {
       "name": "Mug 11oz Espejo Blanco",
-      "description": "Mug 11oz con esmalte tip espejo blanco",
+      "description": "Mug 11oz con esmalte tipo espejo blanco.",
       "price": 25000,
       "image": "product-4.jpg"
     },
     {
       "name": "Mug 11oz Espejo Dorado",
-      "description": "Mug 11oz con esmalte tip espejo dorado",
+      "description": "Mug 11oz con esmalte tipo espejo dorado.",
       "price": 25000,
       "image": "product-5.jpg"
     },
     {
       "name": "Termo digital",
-      "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas",
+      "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas.",
       "price": 40000,
       "image": "product-6.jpg"
     },
     {
       "name": "Jarra opalizada tapa goma",
-      "description": "Jarra opalizada con tapa de goma y válvula de calor",
+      "description": "Jarra opalizada con tapa de goma y válvula de calor.",
       "price": 30000,
       "image": "product-7.jpg"
     },
     {
       "name": "Rompecabezas corazón",
-      "description": "Rompecabezas personalizable en forma de corazón",
-      "price": 28000,
+      "description": "Rompecabezas en cartón personalizable en forma de corazón.",
+      "price": 23000,
       "image": "product-8.jpg"
     },
     {
       "name": "Termo Bala",
-      "description": "Termo bala tapa dorada conserva el calor hasta 3 horas",
+      "description": "Termo bala tapa dorada conserva el calor hasta 3 horas.",
       "price": 25000,
       "image": "product-9.jpg"
     },
     {
       "name": "Porta retrato",
-      "description": "Porta retrato en vidrio opalizado",
+      "description": "Porta retrato en vidrio opalizado.",
       "price": 28000,
       "image": "product-10.jpg"
     },
     {
       "name": "Esferos Promocionales",
-      "description": "Esfero personalizable para propaganda y promoción",
+      "description": "Esfero personalizable.",
       "price": 5000,
       "image": "product-11.jpg"
     },
     {
       "name": "Pad mouse",
-      "description": "Pad mouse redondo y/o rectangular",
+      "description": "Pad mouse redondo y/o rectangular.",
       "price": 10000,
       "image": "product-12.jpg"
     },
     {
-      "name": "Gorra acrilica",
-      "description": "Gorra personalizable adultos y niños",
+      "name": "Gorra acrílica",
+      "description": "Gorra personalizable adultos y niños.",
       "price": 25000,
       "image": "product-13.jpg"
     },
     {
       "name": "Mug pareja corazón",
-      "description": "Mug pareja con oreja en forma de corazón",
+      "description": "Mug pareja con oreja en forma de corazón.",
       "price": 35000,
       "image": "product-14.jpg"
     },
     {
-      "name": "Llavero acrilico",
-      "description": "Llavero acrilico redondo sublimable con argolla metalica",
+      "name": "Llavero acrílico",
+      "description": "Llavero acrílico redondo sublimable.",
       "price": 4000,
       "image": "product-15.jpg"
     },
     {
       "name": "Mug apilable gato pastel",
-      "description": "Mug orejas apilables color pastel",
+      "description": "Mug orejas apilables color pastel.",
       "price": 18000,
       "image": "product-16.jpg"
     },
     {
-      "name": "Mug apilable chocolatero 8oz",
-      "description": "Mug apilable chocolatero 8oz color blanco",
+      "name": "Mug apilable chocolatero",
+      "description": "Mug apilable chocolatero 8oz color blanco.",
       "price": 15000,
       "image": "product-17.jpg"
     },
     {
-      "name": "Agenda cocida Rayada",
-      "description": "Agenda tipo cuaderno cocida rayada, papel amarillo",
+      "name": "Agenda cosida Rayada",
+      "description": "Agenda tipo cuaderno cocida rayada, papel amarillo.",
       "price": 25000,
       "image": "product-18.jpg"
     },
     {
       "name": "Camiseta niño",
-      "description": "Camiseta estampada en DTF para niños, hasta la talla 16",
+      "description": "Camiseta estampada en DTF para niños, hasta la talla 16 y r¿todos los colores.",
       "price": 28000,
       "image": "product-19.jpeg"
     },
     {
       "name": "Camiseta adulto",
-      "description": "Camiseta estampada en DTF para adultos, todas las talla y colores",
+      "description": "Camiseta estampada en DTF para adultos, todas las talla y colores.",
       "price": 35000,
       "image": "product-20.jpg"
     },
     {
       "name": "Colga Puertas",
-      "description": "Colga puertas para oficina y hogar, diseños personalizados",
+      "description": "Colga puertas para oficina y hogar, diseños personalizados.",
       "price": 15000,
       "image": "product-21.jpg"
     },
     {
       "name": "Destapador botella",
-      "description": "Destapador de botella personalizado en acero inoxidable",
+      "description": "Destapador de botella personalizado en acero inoxidable 13*4cm.",
       "price": 9000,
       "image": "product-22.jpg"
     },
     {
       "name": "Destapador ovalado",
-      "description": "Destapador en forma de huevo personalizado en acero inoxidable",
+      "description": "Destapador en forma de huevo personalizado en acero inoxidable 7*4cm.",
       "price": 7000,
       "image": "product-23.jpg"
     },
     {
-      "name": "Hug Escarchado",
-      "description": "Mug 11oz con esmalte tipo escarchado",
+      "name": "Mug Escarchado",
+      "description": "Mug 11oz con esmalte tipo escarcha.",
       "price": 15000,
       "image": "product-24.jpg"
     },
     {
       "name": "Iman Personalizable",
-      "description": "Iman de sublimación personalizable 70x50mm",
+      "description": "Iman de 7x5cm personalizable.",
       "price": 4000,
       "image": "product-25.jpg"
     },
     {
       "name": "Iman Personalizable",
-      "description": "Iman de sublimación personalizable 90x90mm",
+      "description": "Iman de 9x9cm personalizable.",
       "price": 6000,
       "image": "product-26.jpg"
     },
     {
       "name": "Jarra Mason Opalizada",
-      "description": "Jarra mason opalizada colores pastel con pitillo",
+      "description": "Jarra opalizada colores pastel con pitillo.",
       "price": 27000,
       "image": "product-27.jpg"
     },
     {
       "name": "Espejo redondo",
-      "description": "Espejo de mano redondo personalizable",
+      "description": "Espejo de mano personalizable.",
       "price": 8000,
       "image": "product-28.jpg"
     },
     {
-      "name": "Libreta de apuntes",
-      "description": "Libreta de apuntes personalizable hojas blancas",
+      "name": "Mini libreta de apuntes",
+      "description": "Libreta de 15*10cm, hojas blancas, para tomar apuntes, personalizable.",
       "price": 6000,
       "image": "product-29.jpg"
     },
     {
       "name": "Llavero cuero",
-      "description": "Llavero de cuero blanco personalizable, con armella metalica",
+      "description": "Llavero de cuero blanco personalizable.",
       "price": 6000,
       "image": "product-30.jpg"
     },
     {
       "name": "Mug con cuchara",
-      "description": "Mug 11oz con oreja porta cuchara y cuchara de ceramica, colores internos",
+      "description": "Mug 11oz con oreja porta cuchara , colores internos.",
       "price": 18000,
       "image": "product-31.jpg"
     },
     {
       "name": "Cuadro de piedra",
-      "description": "Cuadro de piedra personalizable de 30 x 30 cm, con soporte para mesa",
+      "description": "Cuadro de piedra personalizable de 30x30cm, con soporte para mesa.",
       "price": 70000,
       "image": "product-32.jpg"
     },
     {
       "name": "Arco de piedra",
-      "description": "Arco de piedra personalizable de 20 x 20 cm, con soporte para mesa",
+      "description": "Arco de piedra personalizable de 20x20cm, con soporte para mesa.",
       "price": 35000,
       "image": "product-33.jpg"
     },
     {
       "name": "Porta vaso",
-      "description": "Porta vaso en ceramica personalizable de 10 x 10 cm, con corcho antideslizante",
+      "description": "Porta vaso en ceramica personalizable de 10cm de diametro, con corcho antideslizante.",
       "price": 35000,
       "image": "product-34.jpg"
     },
     {
       "name": "Personalización de productos textiles",
-      "description": "Personalizamos toda clase de productos textiles con estampado en DTF, plasmando tus sueños en tus prendas",
+      "description": "Personalizamos toda clase de productos textiles con estampado en DTF.",
       "price": 35000,
       "image": "product-35.jpg"
     },
     {
-      "name": "Vaso tapa pitillo bambu opalizado",
-      "description": "Vaso tapa pitillo bambu opalizado personalizable de 500ml con pitillo",
+      "name": "Vaso tapa bambu con pitillo",
+      "description": "Vaso opalizado personalizable de 500ml.",
       "price": 28000,
       "image": "product-36.jpg"
     },
     {
       "name": "Rompecabezas rectangular 48 piezas",
-      "description": "Rompecabezas personalizable de 48 piezas rectangular",
+      "description": "Rompecabezas en cartón personalizable de 48 piezas rectangular.",
       "price": 25000,
       "image": "product-37.jpg"
     },
     {
-      "name": "Placa mascota grande",
-      "description": "Placa mascota sublimable tamaño grande en forma de hueso de perro",
+      "name": "Placa mascota ",
+      "description": "Placa mascota de 5*3cm sublimable en forma de hueso.",
       "price": 5000,
       "image": "product-38.jpg"
     },
     {
-      "name": "Marco acrilico",
-      "description": "Marco acrilico con soporte imantado (5.7 x 5.7cm)",
+      "name": "Marco acrílico",
+      "description": "Marco acrílico con soporte imantado (5.7 x 5.7cm).",
       "price": 4000,
       "image": "product-39.jpg"
     },
     {
       "name": "Llavero translucido",
-      "description": "Llavero acrilico translucido con argolla metalica",
+      "description": "Llavero acrílico translucido con argolla metalica.",
       "price": 2000,
       "image": "product-40.jpg"
     },
     {
-      "name": "Kit personalizado",
-      "description": "Mini Agenda, Caja Personalizada, Esfero, Espejo, Llavero",
+      "name": "Carimañola",
+      "description": "Termo metalico, reacciona al calor y cambia de color.",
+      "price": 30000,
+      "image": "product-41.jpg"
+    },
+    {
+      "name": "Agenda tapa bambu",
+      "description": "Agenda tipo cuaderno argollada, rayada, papel cuadriculado color azul o rosado.",
+      "price": 25000,
+      "image": "product-42.jpg"
+    },
+    {
+      "name": "Kit personalizado #1",
+      "description": "Mini Agenda, Caja Personalizada, Esfero, Espejo, Llavero.",
       "price": 33000,
       "image": "kit-1.jpg"
+    },
+    {
+      "name": "Kit personalizado #2",
+      "description": "Mug 11oz, llavero personalizable, Esfero.",
+      "price": 33000,
+      "image": "kit-2.jpg"
+    },
+    {
+      "name": "Kit personalizado #3",
+      "description": "Caja de 15 colores, 2 lapices, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra.",
+      "price": 33000,
+      "image": "kit-3.jpg"
     }
   ]
 }
