@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const isVendedorPage = window.location.pathname.includes('vendedores.html');
-
+    console.log(isVendedorPage);
     fetch('data/products.json')
         .then(response => response.json())
         .then(data => {
