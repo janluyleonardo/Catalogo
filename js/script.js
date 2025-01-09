@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <img src="images/${product.image}" alt="${product.name}" width="200" data-toggle="modal" data-target="#productModal" data-name="${product.name}" data-description="${product.description}" ${isVendedorPage ? '' : `data-price="${product.price}"`} data-image="images/${product.image}">
                     <h2>${product.name}</h2>
                     <p>${product.description}</p>
-                    ${isVendedorPage ? '' : `<p><strong>Precio: $${product.price}</strong></p>`}
+                    ${isVendedorPage ? '' : `<p><strong>Precio: ${product.price}</strong></p>`}
                 `;
                 productList.appendChild(productItem);
             });
