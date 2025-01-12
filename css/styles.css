@@ -26,7 +26,7 @@ body {
 }
 
 .navbar.hidden {
-  top: -80px;
+  top: -120px;
   /* Oculta la navbar al hacer scroll */
 }
 
@@ -41,27 +41,14 @@ body {
   color: #333;
 }
 
-.search-bar {
-  padding: 1rem;
-  background-color: #fff;
-  border-bottom: 1px solid #ddd;
-  display: flex;
-  justify-content: center;
-  position: fixed;
-  /* Hacemos que la barra de búsqueda sea fija */
-  top: 100px;
-  /* Posición debajo de la navbar */
+.form-inline {
   width: 100%;
-  z-index: 999;
-  /* Asegura que la barra de búsqueda esté por encima del contenido */
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.search-bar .form-inline {
-  width: 100%;
-  max-width: 100%;
-}
-
-.search-bar .form-control {
+.form-inline .form-control {
   width: 100%;
 }
 
@@ -71,8 +58,8 @@ body {
   justify-content: center;
   gap: 1rem;
   padding: 1rem;
-  margin-top: 160px;
-  /* Ajusta el margen superior para evitar que el contenido quede debajo de la barra de búsqueda */
+  margin-top: 120px;
+  /* Ajusta el margen superior para evitar que el contenido quede debajo de la navbar */
 }
 
 .product-item {
@@ -113,7 +100,7 @@ body {
   }
 
   .product-list {
-    margin-top: 160px;
-    /* Ajusta el margen superior para evitar que el contenido quede debajo de la barra de búsqueda */
+    margin-top: 120px;
+    /* Ajusta el margen superior para evitar que el contenido quede debajo de la navbar */
   }
 }
