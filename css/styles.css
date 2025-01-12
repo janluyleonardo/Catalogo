@@ -21,6 +21,13 @@ body {
   /* Borde inferior para separar la navbar del contenido */
   display: flex;
   align-items: center;
+  transition: top 0.3s;
+  /* Transición suave para ocultar la navbar */
+}
+
+.navbar.hidden {
+  top: -80px;
+  /* Oculta la navbar al hacer scroll */
 }
 
 .navbar-brand img.logo {
@@ -34,14 +41,38 @@ body {
   color: #333;
 }
 
+.search-bar {
+  padding: 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  /* Hacemos que la barra de búsqueda sea fija */
+  top: 100px;
+  /* Posición debajo de la navbar */
+  width: 100%;
+  z-index: 999;
+  /* Asegura que la barra de búsqueda esté por encima del contenido */
+}
+
+.search-bar .form-inline {
+  width: 100%;
+  max-width: 100%;
+}
+
+.search-bar .form-control {
+  width: 100%;
+}
+
 .product-list {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
   padding: 1rem;
-  margin-top: 100px;
-  /* Ajusta el margen superior para evitar que el contenido quede debajo de la navbar */
+  margin-top: 160px;
+  /* Ajusta el margen superior para evitar que el contenido quede debajo de la barra de búsqueda */
 }
 
 .product-item {
@@ -82,8 +113,7 @@ body {
   }
 
   .product-list {
-    margin-top: 150px;
-    /* background-color: #f4f; */
-    /* Ajusta el margen superior para evitar que el contenido quede debajo de la navbar */
+    margin-top: 160px;
+    /* Ajusta el margen superior para evitar que el contenido quede debajo de la barra de búsqueda */
   }
 }

@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Catálogo de Productos para Vendedores</title>
+  <title>Catálogo de Productos para Ventas</title>
   <link rel="stylesheet" href="css/styles.css">
   <link rel="shortcut icon" href="logo.ico" type="image/x-icon">
   <!-- Bootstrap CSS -->
@@ -17,22 +17,24 @@
     <a class="navbar-brand" href="#">
       <img src="logo.png" alt="Logo" class="logo">
     </a>
-    <h3 class="navbar-title">Catálogo de Productos para vendedores</h3>
+    <h3 class="navbar-title">Catálogo de Productos para Ventas</h3>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ml-auto">
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="index.html">Inicio</a>
-        </li> -->
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="vendedores.html">Vendedores</a>
-        </li> -->
+        <!-- Enlaces de navegación -->
       </ul>
     </div>
   </nav>
+
+  <!-- Search Bar -->
+  <div class="search-bar">
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Buscar" aria-label="Search" id="searchInput">
+    </form>
+  </div>
 
   <main>
     <div id="product-list" class="product-list"></div>
