@@ -241,7 +241,7 @@
       "image": "product-40.jpg"
     },
     {
-      "name": "Carimañola",
+      "name": "Caramañola",
       "description": "Termo metalico, reacciona al calor y cambia de color.",
       "price": 28000,
       "image": "product-41.jpg"
@@ -251,6 +251,78 @@
       "description": "Agenda tipo cuaderno argollada, rayada, papel cuadriculado color azul o rosado.",
       "price": 25000,
       "image": "product-42.jpg"
+    },
+    {
+      "name": "Reloj despertador",
+      "description": "Cubo de colores con reloj digital y colores de luces led.",
+      "price": 25000,
+      "image": "product-43.jpg"
+    },
+    {
+      "name": "Mug pareja corazon 11oz",
+      "description": "Mug's mágicos en pareja con oreja en forma de corazón.",
+      "price": 30000,
+      "image": "product-44.jpg"
+    },
+    {
+      "name": "Mug pareja oreja roja 11oz",
+      "description": "Mug's blancos en pareja con oreja en forma de corazón, color rojo interno y oreja.",
+      "price": 23000,
+      "image": "product-45.jpg"
+    },
+    {
+      "name": "Botella motivacional multicolor",
+      "description": "Botella plástica con tapa de pitillo y marcaciones motivacionales * 3 unidades.",
+      "price": 35000,
+      "image": "product-46.jpg"
+    },
+    {
+      "name": "Mug oreja mickey 11oz",
+      "description": "Mug color rojo interno y de oreja.",
+      "price": 13000,
+      "image": "product-47.jpg"
+    },
+    {
+      "name": "Mug pareja corazón blanco 11oz",
+      "description": "Mug's blancos en pareja con oreja en forma de corazón.",
+      "price": 24000,
+      "image": "product-48.jpg"
+    },
+    {
+      "name": "Caramañola tapa rosca",
+      "description": "Caramañola con borde rojo.",
+      "price": 30000,
+      "image": "product-50.jpg"
+    },
+    {
+      "name": "Botella agua",
+      "description": "Botella de agua para niños y niños color rosado y azul.",
+      "price": 36000,
+      "image": "product-51.jpg"
+    },
+    {
+      "name": "Mug oreja mickey 11oz",
+      "description": "Mug color negro interno y de oreja.",
+      "price": 15000,
+      "image": "product-52.jpg"
+    },
+    {
+      "name": "Porta retrato doble cara",
+      "description": "Porta retrato en madera con laminas de aluminio sublimables.",
+      "price": 45000,
+      "image": "product-53.jpg"
+    },
+    {
+      "name": "Vaso Personalizable",
+      "description": "Vaso personalizable en papel con tapa de rosca.",
+      "price": 15000,
+      "image": "product-54.jpg"
+    },
+    {
+      "name": "Caramañola tapa mate",
+      "description": "Caramañola conserva temperatura fría, capacidad 700ml.",
+      "price": 24000,
+      "image": "product-55.jpg"
     },
     {
       "name": "Kit personalizado #1",
@@ -266,7 +338,7 @@
     },
     {
       "name": "Kit escolar personalizado",
-      "description": "Caja de 15 colores, 1 lapiz negro, 1 lapiz rojo, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra, 1 cartuchera.",
+      "description": "Caja de 15 colores, 1 lápiz negro, 1 lápiz rojo, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra, 1 cartuchera.",
       "price": 45000,
       "image": "kit-3.jpg"
     }
