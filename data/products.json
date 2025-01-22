@@ -2,62 +2,62 @@
   "products": [
     {
       "name": "Termo Tapa Orejas Conejo",
-      "description": "Termo en ceramica con oreja de agarre antideslisante.",
-      "price": 32000,
+      "description": "Termo en cerámica con oreja de agarre antideslizante.",
+      "price": 25000,
       "image": "product-1.jpg"
     },
     {
       "name": "Mug 11oz Opalizado",
       "description": "Mug opalizado con oreja de corazón y color degradado.",
-      "price": 25000,
+      "price": 20000,
       "image": "product-2.jpg"
     },
     {
       "name": "Mug 11oz Espejo Plateado",
       "description": "Mug 11oz con esmalte tipo espejo plateado.",
-      "price": 25000,
+      "price": 20000,
       "image": "product-3.jpg"
     },
     {
       "name": "Mug 11oz Espejo Blanco",
       "description": "Mug 11oz con esmalte tipo espejo blanco.",
-      "price": 25000,
+      "price": 20000,
       "image": "product-4.jpg"
     },
     {
       "name": "Mug 11oz Espejo Dorado",
       "description": "Mug 11oz con esmalte tipo espejo dorado.",
-      "price": 25000,
+      "price": 20000,
       "image": "product-5.jpg"
     },
     {
       "name": "Termo digital",
       "description": "Termo digital en aluminio conserva la temperatura hasta 6 horas.",
-      "price": 40000,
+      "price": 35000,
       "image": "product-6.jpg"
     },
     {
       "name": "Jarra opalizada tapa goma",
       "description": "Jarra opalizada con tapa de goma y válvula de calor.",
-      "price": 30000,
+      "price": 27000,
       "image": "product-7.jpg"
     },
     {
       "name": "Rompecabezas corazón",
       "description": "Rompecabezas en cartón personalizable en forma de corazón.",
-      "price": 23000,
+      "price": 15000,
       "image": "product-8.jpg"
     },
     {
       "name": "Termo Bala",
       "description": "Termo bala tapa dorada conserva el calor hasta 3 horas.",
-      "price": 25000,
+      "price": 32000,
       "image": "product-9.jpg"
     },
     {
       "name": "Porta retrato vidrio",
       "description": "Porta retrato en vidrio opalizado.",
-      "price": 28000,
+      "price": 25000,
       "image": "product-10.jpg"
     },
     {
@@ -67,33 +67,39 @@
       "image": "product-11.jpg"
     },
     {
-      "name": "Pad mouse",
-      "description": "Pad mouse redondo y/o rectangular.",
-      "price": 10000,
+      "name": "Pad mouse redondo",
+      "description": "Pad mouse personalizable con sublimación y/o DTF.",
+      "price": 15000,
+      "image": "product-12.jpg"
+    },
+    {
+      "name": "Pad mouse rectangular",
+      "description": "Pad mouse personalizable con sublimación y/o DTF.",
+      "price": 15000,
       "image": "product-12.jpg"
     },
     {
       "name": "Gorra acrílica",
       "description": "Gorra personalizable adultos y niños.",
-      "price": 25000,
+      "price": 15000,
       "image": "product-13.jpg"
     },
     {
       "name": "Mug pareja corazón",
-      "description": "Mug pareja con oreja en forma de corazón.",
-      "price": 35000,
+      "description": "Mug pareja con oreja en forma de corazón color blanco.",
+      "price": 24000,
       "image": "product-14.jpg"
     },
     {
       "name": "Llavero acrílico",
       "description": "Llavero acrílico redondo sublimable.",
-      "price": 4000,
+      "price": 3000,
       "image": "product-15.jpg"
     },
     {
       "name": "Mug apilable gato pastel",
       "description": "Mug orejas apilables color pastel.",
-      "price": 18000,
+      "price": 15000,
       "image": "product-16.jpg"
     },
     {
@@ -121,8 +127,8 @@
       "image": "product-20.jpg"
     },
     {
-      "name": "Colga Puertas",
-      "description": "Colga puertas para oficina y hogar, diseños personalizados.",
+      "name": "Cuelga Puertas",
+      "description": "Cuelga puertas para oficina y hogar, diseños personalizados.",
       "price": 15000,
       "image": "product-21.jpg"
     },
@@ -141,25 +147,25 @@
     {
       "name": "Mug Escarchado",
       "description": "Mug 11oz con esmalte tipo escarcha.",
-      "price": 18000,
+      "price": 20000,
       "image": "product-24.jpg"
     },
     {
-      "name": "Iman Personalizable",
-      "description": "Iman de 7x5cm personalizable.",
+      "name": "Imán Personalizable",
+      "description": "Imán de 7x5cm personalizable.",
       "price": 4000,
       "image": "product-25.jpg"
     },
     {
-      "name": "Iman Personalizable",
-      "description": "Iman de 9x9cm personalizable.",
+      "name": "Imán Personalizable",
+      "description": "Imán de 9x9cm personalizable.",
       "price": 6000,
       "image": "product-26.jpg"
     },
     {
-      "name": "Jarra Mason Opalizada",
+      "name": "Jarra Masón Opalizada",
       "description": "Jarra opalizada colores pastel con pitillo.",
-      "price": 27000,
+      "price": 25000,
       "image": "product-27.jpg"
     },
     {
@@ -189,7 +195,7 @@
     {
       "name": "Cuadro de piedra",
       "description": "Cuadro de piedra personalizable de 30x30cm, con soporte para mesa.",
-      "price": 70000,
+      "price": 60000,
       "image": "product-32.jpg"
     },
     {
@@ -200,54 +206,48 @@
     },
     {
       "name": "Porta vaso",
-      "description": "Porta vaso en ceramica personalizable de 10cm de diametro, con corcho antideslizante.",
+      "description": "Porta vaso en cerámica personalizable de 10cm de diámetro, con corcho antideslizante.",
       "price": 10000,
       "image": "product-34.jpg"
     },
     {
-      "name": "Personalización de productos textiles",
-      "description": "Personalizamos toda clase de productos textiles con estampado en DTF.",
-      "price": 35000,
-      "image": "product-35.jpg"
-    },
-    {
-      "name": "Vaso tapa bambu con pitillo",
+      "name": "Vaso tapa bambú con pitillo",
       "description": "Vaso opalizado personalizable de 500ml.",
-      "price": 28000,
+      "price": 32000,
       "image": "product-36.jpg"
     },
     {
       "name": "Rompecabezas rectangular 48 piezas",
       "description": "Rompecabezas en cartón personalizable de 48 piezas rectangular.",
-      "price": 25000,
+      "price": 18000,
       "image": "product-37.jpg"
     },
     {
       "name": "Placa mascota ",
       "description": "Placa mascota de 5*3cm sublimable en forma de hueso.",
-      "price": 5000,
+      "price": 10000,
       "image": "product-38.jpg"
     },
     {
-      "name": "Marco acrílico",
+      "name": "Porta retrato acrílico",
       "description": "Marco acrílico con soporte imantado (5.7 x 5.7cm).",
       "price": 4000,
       "image": "product-39.jpg"
     },
     {
       "name": "Llavero translucido",
-      "description": "Llavero acrílico translucido con argolla metalica.",
+      "description": "Llavero acrílico translucido con argolla metálica.",
       "price": 2000,
       "image": "product-40.jpg"
     },
     {
       "name": "Caramañola",
-      "description": "Termo metalico, reacciona al calor y cambia de color.",
-      "price": 28000,
+      "description": "Termo metálico, reacciona al calor y cambia de color.",
+      "price": 22000,
       "image": "product-41.jpg"
     },
     {
-      "name": "Agenda tapa bambu",
+      "name": "Agenda tapa bambú",
       "description": "Agenda tipo cuaderno argollada, rayada, papel cuadriculado color azul o rosado.",
       "price": 25000,
       "image": "product-42.jpg"
@@ -259,8 +259,8 @@
       "image": "product-43.jpg"
     },
     {
-      "name": "Mug pareja corazon 11oz",
-      "description": "Mug's mágicos en pareja con oreja en forma de corazón.",
+      "name": "Mug pareja corazón 11oz",
+      "description": "Mug's mágicos en pareja con oreja en forma de corazón, color blanco interno.",
       "price": 30000,
       "image": "product-44.jpg"
     },
@@ -279,7 +279,7 @@
     {
       "name": "Mug oreja mickey 11oz",
       "description": "Mug color rojo interno y de oreja.",
-      "price": 13000,
+      "price": 15000,
       "image": "product-47.jpg"
     },
     {
@@ -341,6 +341,12 @@
       "description": "Caja de 15 colores, 1 lápiz negro, 1 lápiz rojo, 1 borrador, 1 regla, 1 tajalapiz, 1 esfero, 1 llavero, 12 stiker's, 1 pegante en barra, 1 cartuchera.",
       "price": 45000,
       "image": "kit-3.jpg"
+    },
+    {
+      "name": "Personalización de productos textiles",
+      "description": "Personalizamos toda clase de productos textiles con estampado en DTF.",
+      "price": "10000 a 15000",
+      "image": "product-35.jpg"
     }
   ]
 }
